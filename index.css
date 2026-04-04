@@ -1,0 +1,12 @@
+#title {
+    color: blue;
+}
+.change {
+  background-color: lightpink;
+}
+#button1 {
+  background-color: red;
+}
+a:hover {
+  color: green;
+}
